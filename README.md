@@ -16,7 +16,7 @@ Live Code editor for pair programming. This is a code pair platform where users 
 ## 🧪 Steps to Build locally:
 - Clone the Repository with:  
 ```bash 
-git clone https://github.com/arabinda0704/Live-Code-Editor.git
+git clone https://github.com/arabinda0704/Code-Editor.git
 ```
 ### Frontend:
 - Switch to Frontend folder: 
